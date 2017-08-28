@@ -4,4 +4,4 @@ this is third git file.
 add one line.
 nishizhuma
 
-¡±tui song yuan cheng ku ceshi¡°
+tui song yuan cheng ku ceshi
